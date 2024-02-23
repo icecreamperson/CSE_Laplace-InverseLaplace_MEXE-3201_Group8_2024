@@ -1,3 +1,5 @@
+syms t s
+
 A1 = (3-exp(-3*t)+5*sin(2*t));
 a1 = laplace(A1)
 pretty(a1)
