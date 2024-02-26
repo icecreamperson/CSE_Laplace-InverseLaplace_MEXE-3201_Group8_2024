@@ -7,4 +7,5 @@ This repository is dedicated to CSE for Group 8
 
 ![418736860_392734580147815_2552555942663440286_n](https://github.com/icecreamperson/CSE_Laplace-InverseLaplace_MEXE-3201_Group8_2024/assets/157708843/5b2a62d2-e3cc-4870-a16c-59a0c83b3bdd)
 
+![426443409_752406526857579_8137835418003145122_n](https://github.com/icecreamperson/CSE_Laplace-InverseLaplace_MEXE-3201_Group8_2024/assets/157708843/c26641b1-301d-412a-a974-b169600f3bbd)
 
