@@ -23,16 +23,16 @@ In addition, below is our solution into this laboratory activity.
 
 *Project Leader*:
 
-Adoptante, Caine Jeneah U. (sopkeyn)
+Adoptante, Caine Jeneah U. ([sopkeyn](https://github.com/sopkeyn))
 
 *Project Supervisor*:
 
-Dimaano, Kian Michael G. (KMTechies)
+Dimaano, Kian Michael G. ([KMTechies](https://github.com/KMTechies))
 
 *Project Quality*:
 
-Echaluce, Emanuel B. (Emanskiee)
+Echaluce, Emanuel B. ([Emanskiee](https://github.com/Emanskiee))
 
 *Programmer*:
 
-Abeleda, Dannielle Louis F. (icecreamperson)
+Abeleda, Dannielle Louis F. ([icecreamperson](https://github.com/icecreamperson))
