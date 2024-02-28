@@ -3,7 +3,7 @@ This repository is dedicated for *Control Systems Engineering* by Group 8
 
 As aspiring Mechatronics Engineers, mastering Laplace and Inverse Laplace techniques is essential for understanding and manipulating complex dynamic systems. Throughout this activity, we explore some of the various problems and solutions that deepen our comprehension and application of Laplace and Inverse Laplace methods.
 
-Below is our solution into this laboratory activity.
+In addition, below is our solution into this laboratory activity.
 
 ![423221296_2213098912374253_6695269386203929462_n](https://github.com/icecreamperson/CSE_Laplace-InverseLaplace_MEXE-3201_Group8_2024/assets/157708843/ef0a8a7b-7061-4370-857f-b6a3b27ee5ab)
 
